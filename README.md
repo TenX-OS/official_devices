@@ -11,7 +11,7 @@ List of all the Officially Supported Devices:
 |     Redmi Note 7 Pro          |    violet        | [**Subrata Maity**](https://t.me/Rdx55)    |
 |     Redmi S2                  |    Ysl.          | [**Aakif Mudel**](https://t.me/itsaakif)
 |     Xiaomi Poco F1            |    Beryllium     | [**Roxor07**](https://t.me/RoXoR07) |
-|     Mi10i/Mi10T lite/Redmi Note 9 Pro 5G     |    auguin       | [**Seif Shahin**](https://t.me/Droneship)  |
+|     Mi10i/Mi10T lite/Redmi Note 9 Pro 5G     |    Gauguin       | [**Seif Shahin**](https://t.me/Droneship)  |
 |     Realme 6 Series           |    RMX2001       | [**dae**](https://t.me/ctivity)  |
 |     Redmi Note 9s/Pro/Pro Max |    Miatoll       | [**Surya Vamsi**](https://t.me/Surya580)    |
 |     Poco X2                   |    Phoenix       | [**Anky**](https://t.me/AD_Anky)  |
